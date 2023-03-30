@@ -24,13 +24,12 @@ img {
     width: 15%;
 }
 
-.bianco {
-    font-style: italic;
-
-}
 ol{
     width: 30%;
     text-align: left;
     margin: 0 auto;
+}
+header p {
+    border: 20px solid white;
 }
 
